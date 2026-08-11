@@ -1,0 +1,15 @@
+# Portfolio cleanup plan
+
+Keep (required for current index.html + rendering):
+- index.html
+- style.css
+- script.js
+- image.png (used if you change hero path to image.png)
+
+Remove only if you don’t need docs:
+- README.md (optional)
+- TODO.md (optional)
+
+Do NOT delete until you resolve deployment:
+- assets/ (if you create it). Current HTML references assets/images/profile.png and assets/resume/resume.pdf.
+
