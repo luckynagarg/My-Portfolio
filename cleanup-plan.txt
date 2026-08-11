@@ -11,5 +11,5 @@ Remove only if you don’t need docs:
 - TODO.md (optional)
 
 Do NOT delete until you resolve deployment:
-- assets/ (if you create it). Current HTML references assets/images/profile.png and assets/resume/resume.pdf.
+- assets/ (if you create it). Current HTML references assets/images/profile.png and resume/resume.pdf.
 
